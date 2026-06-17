@@ -1,5 +1,5 @@
 # Ps1_Jap_Bios_Unlocker
-Universal chip add-on unlocker for **all** JAP ps1 bios protection.
+Universal chip add-on unlocker for **all** JAP ps1 BIOSes protection.
 
 This mod patches ps1 JAP bios protection allowing playing PAL and USA region games.
 My method uses a different approach instead of the one made by postal v8 PsNee (and kalymos upgrades).
@@ -58,8 +58,7 @@ Code is written using greats ch32fun libs!
 Status Led otuput meaning:
 - Off: Fix OFF or disabled.
 - ON: Fix triggered, patching.
-- Blinking: Waiting for trigger 
-After 20 sec. if is not triggered, the Fix will be deactivated automatically (turns OFF), reset the console to reneable (turn ON) again.
+- Blinking: Waiting for trigger. (After 20 sec. if is not triggered, the Fix will be deactivated automatically (turns OFF), reset the console to reneable (turn ON) again)
 
 ## Thanks to:
 ramapcsx2, kalymos, SpenceKonde, oldcrow, mayumi, arduino community, ch32fun community, Infrid and lots of people that can't remeber now.
